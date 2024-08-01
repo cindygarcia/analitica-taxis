@@ -1,4 +1,4 @@
-# analitica-taxis
+# Analisis desempeño del modelo de taxis
 Código para reproducir el análisis de taxi de NYC usando buenas prácticas
 
 ## Requisitos
@@ -38,7 +38,7 @@ Para ejecutar el notebook, sigue estos pasos:
 2. Inicia Jupyter Notebook:
 jupyter notebook
 
-3. Abre el archivo nombre_del_notebook.ipynb en el navegador y ejecuta las celdas.
+3. Abre el archivo 00_nyc_taxi_model.ipynb en el navegador y ejecuta las celdas.
 
 ## Contribución
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
